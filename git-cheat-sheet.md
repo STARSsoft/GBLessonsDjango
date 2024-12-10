@@ -12,6 +12,10 @@
 
 `git show` - просмотр подробной информации по последним изменениям
 
+`git branch branch_name` - Создание новой ветки
+
+`git checkout branch_name` - перейти на ветку 
+
 <<<<<<< HEAD
 `git diff "file name"` - просмотреть изменения в файле
 
