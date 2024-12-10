@@ -49,4 +49,4 @@
  
 **Завершающий текст для домашки**
 
-*** second_user ***
+*** deleted branch second_user ***
